@@ -3,7 +3,7 @@
 # 찰떡궁합 도시 찾기 Front Clone
 
 - 문항에 답변을 하고 결과를 볼 수 있는 테스트의 프론트를 만듭니다.
-- city.travelcode.kr
+- (찰떡궁합 도시 찾기)[city.travelcode.kr]
 
 ## 요구 사항
 
